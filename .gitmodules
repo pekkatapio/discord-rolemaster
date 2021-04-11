@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:pekkatapio/discord-rolemaster-api.git
+[submodule "bot"]
+	path = bot
+	url = git@github.com:pekkatapio/discord-rolemaster-bot.git
